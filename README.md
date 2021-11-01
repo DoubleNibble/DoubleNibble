@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DoubleNibble
 - 👀 I’m interested in BTC
-- 🌱 I’m currently learning all Bitcoin and blochchain technology related topics
+- 🌱 I’m currently learning as much as Bitcoin and blochchain technology related topics as I can
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
